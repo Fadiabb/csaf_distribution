@@ -11,7 +11,7 @@ which is suitable for testing in development setups.
 
 ## create root CA
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=../scripts/serverCA.sh&lines=24-42) -->
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=../docs/scripts/serverCA.sh&lines=24-42) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## create webserver cert
